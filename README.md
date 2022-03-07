@@ -3,6 +3,8 @@
 ### Requirements
 * Building the project requires make
 * g++ are required to the build the project from the makefile
+* Python 3 is required to build the test suite
+* cxxtest is required to run the tests
 
 ### Purpose
 The main purpose of this project is to implement reasonably fast crypto math for fast generation of vanity Secp256k1 public keys.
